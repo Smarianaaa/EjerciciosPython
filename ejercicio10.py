@@ -1,4 +1,4 @@
-productos= input("Introduce los productos seleccionados separados por una ',': ")
+productos= input("Introduce los productos seleccionados separados por una ',' : ")
 
 p= productos.split(',')
 
